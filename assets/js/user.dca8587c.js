@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["user"],{5905:function(e,n,r){"use strict";r.r(n);var t=function(){var e=this,n=e.$createElement,r=e._self._c||n;return r("router-view")},u=[],s={name:"Subscribe"},c=s,l=r("2877"),a=Object(l["a"])(c,t,u,!1,null,null,null);n["default"]=a.exports}}]);
+//# sourceMappingURL=user.dca8587c.js.map
